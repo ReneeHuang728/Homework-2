@@ -8,7 +8,7 @@ This homework is due on ***Sunday, October 4th by 11:59 pm EST***. It is going t
 ## Submission Instructions
 
 Please follow these exact instructions for full submission credit. 
-1. You must submit your R file uploaded to Latte 
+1. You must submit your R file and PDF to Latte 
 1. A PDF with your name and a link to your code also hosted on Github. This should be called `FirstNameLastName_Homework2.pdf`
 1. Your R file should be named in this format: `FirstNameLastName_Homework2.R`
 
